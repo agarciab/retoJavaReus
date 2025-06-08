@@ -1,0 +1,4 @@
+2025-06-08 12:05:47.193261+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "TEST" no encontrada
+Table "TEST" not found; SQL statement:
+INSERT INTO TEST VALUES('cfdea552-96d0-4843-90f7-8c9f93de23a1', 'Josep Font') [42102-232]
